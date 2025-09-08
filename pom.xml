@@ -16,6 +16,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+             <sonar.organization>kipras-tamasauskas</sonar.organization>
     </properties>
 
     <dependencies>
@@ -42,3 +43,5 @@
         </plugins>
     </build>
 </project>
+
+
